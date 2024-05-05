@@ -52,7 +52,7 @@
 
 ![6](https://github.com/thejaswinidhanaraj/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/148514511/2a7d7292-2c78-4e4e-bfd1-5437c2235647)
 
-### Name:THHEJASWINI D
+### Name:THEJASWINI D
 ### Register Number:212223110059
 
 ## Result: 
